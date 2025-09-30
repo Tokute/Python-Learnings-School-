@@ -1,3 +1,4 @@
+# CODE IS VERY SCUFFED (FIRST TIME USING FUCNTIONS AND I DIDN'T KNOW USING  GLOBAL VARIABLES INSIDE FUNCTIONS WAS BAD
 
 menu_prices = []
 
@@ -238,4 +239,5 @@ while True:
 
 
 				except ValueError:
+
 					print("Invalid Choice")
